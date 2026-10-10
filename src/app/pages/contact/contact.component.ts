@@ -45,7 +45,7 @@ export class ContactComponent implements AfterViewInit {
 
   socialLinks = [
     { icon: 'linkedin', link: 'https://linkedin.com/in/aman-jha-07334a254', label: 'LinkedIn' },
-    { icon: 'github', link: 'https://github.com/amanjha7', label: 'GitHub' },
+    { icon: 'github', link: 'https://github.com/amanjhacodes55', label: 'GitHub' },
     { icon: 'leetcode', link: 'https://leetcode.com/u/Aman_jha_/', label: 'LeetCode' }
   ];
 
